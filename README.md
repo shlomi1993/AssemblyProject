@@ -32,6 +32,7 @@ run_main() gets two strings and two lengths from the user, build two pstrings an
 
 ## Jump-Table / Switch-Case Options:
 
+- 50 / 60 -- pstrlen -- prints the length of the pstring (return the first byte).
 - 52 -- replaceChar -- replace a specific char in the p-string.
 - 53 -- pstrijcpy -- copy sub-string between index i to index j to another pstring.
 - 54 -- swapCase -- change case of English characters.
