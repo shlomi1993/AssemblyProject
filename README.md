@@ -11,7 +11,7 @@ typedef struct {
     char string[255];
 } Pstring;
 ```
-In this erpo I've implemented a P-String smilar to those in string.h library, but using assembly language.
+In this repo I've implemented a P-String smilar to those in string.h library, but using assembly language.
 
 ## P-String in the Stack
 
