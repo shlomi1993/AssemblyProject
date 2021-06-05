@@ -16,6 +16,7 @@ In this erpo I've implemented a P-String smilar to those in string.h library, bu
 ## P-String in the Stack
 
 The pstring "hello" will be stored in the stack as:
+
 ![image](https://user-images.githubusercontent.com/72878018/120895024-db47c180-c623-11eb-88ef-fb26716913c6.png)
 
 
