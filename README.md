@@ -42,4 +42,4 @@ run_main() gets two strings and two lengths from the user, build two pstrings an
 
 - The code is heavily commented.
 - IDE: Visual Studio Code.
-- Useful document in resources dictionary: CS107 Handy one-page of x64-86.
+- Useful document in resources directory: **CS107 Handy one-page of x64-86**.
